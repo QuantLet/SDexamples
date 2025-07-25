@@ -1,0 +1,12 @@
+Name of QuantLet : 'SDexamples'
+
+Published in : 'Stochastic Dominance courselet on Quantinar.com'
+
+Description : 'Code for Stochastic Dominance courselet on Quantinar.com'
+
+Keywords : 'First-Order (FSD), Second-Order (SSD) Stochastic Dominance'
+
+Author : 'Radu Lupu'
+
+Submitted : '25 Jul 2025'
+
