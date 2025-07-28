@@ -8,5 +8,5 @@ Keywords : 'First-Order (FSD), Second-Order (SSD) Stochastic Dominance'
 
 Author : 'Radu Lupu'
 
-Submitted : '25 Jul 2025'
+Submitted : '28 Jul 2025'
 
